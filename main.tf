@@ -11,6 +11,7 @@ terraform {
     storage_account_name = "embaratastorage"
     container_name       = "taskboardcontainer"
     key                  = "terraform.tfstate"
+    subscription_id      = "10ddf78c-f03e-4c1f-bb72-085a15167a6e"
   }
 }
 
